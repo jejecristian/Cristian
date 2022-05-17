@@ -1,3 +1,3 @@
 # Cristian
 
-https://jejecristian.github.io/Cristian/
+https://jejecristian.github.io/Cristian/miProyecto/index.html
